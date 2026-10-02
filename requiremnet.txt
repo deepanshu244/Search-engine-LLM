@@ -26,4 +26,5 @@ youtube_transcript_api
 unstructured
 pytube
 gradio
-
+streamlit
+langchain-groq
