@@ -28,3 +28,4 @@ pytube
 gradio
 streamlit
 langchain-groq
+ddgs
